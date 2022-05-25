@@ -27,7 +27,7 @@
 
  <details>
 <summary>
-supermarket_sales_EDA_exercises
+Preparing with Data
 </summary>
   <p align="center">
   <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_1.png" width=40% height=40%>
@@ -36,7 +36,7 @@ supermarket_sales_EDA_exercises
 
   <details>
   <summary>
-  Learn Basic Statistics with Python
+  supermarket_sales_EDA_exercises
   </summary>
    <p align="center">
    <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/1-Introduction%20to%20Data%20Visualization/supermarket_sales_EDA_exercises.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
@@ -71,13 +71,11 @@ Module 4 bestsellers Coding Exercises "Adding Visualization" 4_8 (Data Analysis 
  </details>
  
  </details> -->
- 
-  ---
-  
 
-  
 
   ---
+  
+  
   ## 🔥 Learned:
 
 - [x] Preparing Data
