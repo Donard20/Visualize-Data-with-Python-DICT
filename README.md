@@ -38,7 +38,26 @@ Python Training sponsored by DICT-Philippines.
   <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/1.png" width=50% height=50%>
   <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/2.png" width=50% height=50%>
   <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/3.png" width=50% height=50%>
-
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/4.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/5.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/5_1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/6.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/6_1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/6_2.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/6_3.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/7.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/7_1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/7_2.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/8.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/9.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/9_1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/10.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/10_1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/10_2.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/10_3.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/12.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/12_1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/intro/13.png" width=50% height=50%>
 
   </details>
 
