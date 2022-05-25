@@ -1,7 +1,8 @@
 <a href="https://github.com/Donard20" target="_blank"><img src="https://img.shields.io/badge/View-My%20Profile-informational?style=for-the-badge&logo=github"></a>   <a href="https://github.com/Donard20?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/View-My%20Repositories-yellow?style=for-the-badge&logo=github"></a>   <a href="https://www.linkedin.com/in/engrnard/" target="_blank"><img src="https://img.shields.io/badge/View-LinkedIn-green?style=social&logo=linkedin"></a>
 # Visualize Data with Python
 
-Python Training sponsored by DICT-Philippines. 
+Python Training sponsored by DICT-Philippines.
+
 <p align="center">
 <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/header.gif" width=50% height=50%>
 
