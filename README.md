@@ -14,22 +14,32 @@ Python Training sponsored by DICT-Philippines.
 - [@Donard20](https://github.com/Donard20)
 
 ## 📊 Discussing about:
-<!-- - [x] Descriptive Analysis
-- [x] Diagnostic Analysis
-- [x] Predictive Analysis
-- [x] Prescriptive Analysis -->
+- [x] Introduction to Data Visualization
+- [x] Data Visualization Python
+- [x] Visualizing Real-World Data
 
-<!-- ## Data Analysis
+   
+---
+   
+   
+## 🔥 With Aim to:
+  >  - Improve my coding skill through out this course
+  >  - Have a basic understanding of Matplotlib
+  >  - Have a basic understanding of Seaborn
+   
+---
+
+## Visualize Data with Python
    <details>
   <summary>
-  What is Data Analysis
+  What is Visualize Data with Python
   </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/Data%20Analysis/1.png" width=80% height=80%>
-   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/Data%20Analysis/2.png" width=80% height=80%>
+<!--   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/Data%20Analysis/1.png" width=80% height=80%>
+   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/Data%20Analysis/2.png" width=80% height=80%> -->
 
 
-  </details> -->
+  </details>
 
 ## Analyze Data with Python
 
@@ -66,27 +76,14 @@ Python Training sponsored by DICT-Philippines.
 ---
    
 ## Summary of my Journey
-<!--    <details>
+   <details>
   <summary>
-  Analyzing Data with Python
+  Visualize Data with Python
   </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/1.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/2.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/3.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/4.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/5.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/6.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/7.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/8.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/9.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/10.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/11.png" width=50% height=50%>
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/12.png" width=50% height=50%>
+<!--   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/1.png" width=50% height=50%> -->
 
-
-
-  </details> -->
+  </details>
 
 ---
 
@@ -107,18 +104,18 @@ IDE
    
 ## ✨ Certificate Training
 
-<!--   <details>
+  <details>
   <summary>
-  Analyze Data with Python
+  Visualize Data with Python
   </summary>
    <p align="center">
-   <a href="https://courses.buri.io/view/user/certificate/f4486dfb-3640-4ff4-bb63-689bb58c6bf1/pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a>
+<!--    <a href="https://courses.buri.io/view/user/certificate/f4486dfb-3640-4ff4-bb63-689bb58c6bf1/pdf" target="_blank"><img src="https://img.shields.io/badge/View-My%20Certificate-purple?style=for-the-badge&logo=github"></a> -->
 
 
  </details>
 
 
- </details> -->
+ </details>
 
 ## Used By
 
