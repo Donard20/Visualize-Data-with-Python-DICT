@@ -1,4 +1,4 @@
-<a href="https://github.com/Donard20" target="_blank"><img src="https://img.shields.io/badge/View-My%20Profile-informational?style=for-the-badge&logo=github"></a>   <a href="https://github.com/Donard20?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/View-My%20Repositories-yellow?style=for-the-badge&logo=github"></a>   <a href="https://github.com/Donard20/Analyze-Data-with-Python-DICT" target="_blank"><img src="https://img.shields.io/badge/View-This%20Repository-green?style=for-the-badge&logo=github"></a>  <img src="https://img.shields.io/badge/View-LinkedIn-green?style=social&logo=linkedin"></a>
+<a href="https://github.com/Donard20" target="_blank"><img src="https://img.shields.io/badge/View-My%20Profile-informational?style=for-the-badge&logo=github"></a>   <a href="https://github.com/Donard20?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/View-My%20Repositories-yellow?style=for-the-badge&logo=github"></a>   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT" target="_blank"><img src="https://img.shields.io/badge/View-This%20Repository-green?style=for-the-badge&logo=github"></a>  <img src="https://img.shields.io/badge/View-LinkedIn-green?style=social&logo=linkedin"></a>
 
 # 📜 Introduction to Data Visualization
 
@@ -49,28 +49,28 @@ Preparing with Data
  </details>
  
  
-<!--  <details>
+ <details>
 <summary>
-Module 4 bestsellers Coding Exercises "Adding Visualization" 4_8 (Data Analysis in the Real World)
+ Plotting Data using Matplotlib
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/ins_5.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_2.png" width=40% height=40%>
   
    ## 🚀 Solution
 
   <details>
   <summary>
-  Learn Basic Statistics with Python
+ supermarket_sales_EDA_exercises matplotlib 3_8 Continuation
   </summary>
    <p align="center">
-   <a href="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/Data%20Analysis%20in%20the%20Real%20World/Module%204%20%20bestsellers%20Coding%20Exercises%20adding%20visualization%20%204_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/1-Introduction%20to%20Data%20Visualization/supermarket_sales_EDA_exercises%20matplotlib%203_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
    </detals>
   
  </details>
  
- </details> -->
+ </details>
 
 
   ---
@@ -86,6 +86,14 @@ Module 4 bestsellers Coding Exercises "Adding Visualization" 4_8 (Data Analysis 
    - [x] isnull() method
    - [x] astype() method
    - [x] to_numeric
+- [x] Plotting using Matplotlib
+   - [x] plot() method
+   - [x] bar() method
+   - [x] barh() method
+   - [x] xlabel() method
+   - [x] ylabel() method
+   - [x] yticks() method
+   - [x] sort_values()
 
   
 
