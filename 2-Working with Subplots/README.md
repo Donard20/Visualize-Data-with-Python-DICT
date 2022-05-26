@@ -5,8 +5,8 @@
 <p align="center">
 <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/folder%202.png" width=80% height=80%>
  
-<!-- <p align="center">
-<img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/folder%201_2.png" width=80% height=80%> -->
+<p align="center">
+<img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/head_2.png" width=80% height=80%>
  
 ## 📖 Table Of Contents
 * 🔥 [Aim for this lesson](#aim)
