@@ -86,6 +86,14 @@ Preparing with Data
    - [x] isnull() method
    - [x] astype() method
    - [x] to_numeric
+- [x] Plotting using Matplotlib
+   - [x] plot() method
+   - [x] bar() method
+   - [x] barh() method
+   - [x] xlabel() method
+   - [x] ylabel() method
+   - [x] yticks() method
+   - [x] sort_values()
 
   
 
