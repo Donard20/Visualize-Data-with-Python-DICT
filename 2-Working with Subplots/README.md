@@ -25,21 +25,21 @@
 ---
 # 🛠️ Problem and Solution
 
-<!--  <details>
+ <details>
 <summary>
-Preparing with Data
+Working with Subplots
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_1.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_3.png" width=40% height=40%>
   
    ## 🚀 Solution
 
   <details>
   <summary>
-  supermarket_sales_EDA_exercises
+  Module 4 Coding Exercise(supermarket sales data visualization exercise)
   </summary>
    <p align="center">
-   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/1-Introduction%20to%20Data%20Visualization/supermarket_sales_EDA_exercises.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/2-Working%20with%20Subplots/Module%204%20Coding%20Exercise.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
    </detals>
@@ -49,7 +49,7 @@ Preparing with Data
  </details>
  
  
- <details>
+<!--  <details>
 <summary>
  Plotting Data using Matplotlib
 </summary>
@@ -70,8 +70,8 @@ Preparing with Data
   
  </details>
  
- </details>
- -->
+ </details> -->
+
 
   ---
   
