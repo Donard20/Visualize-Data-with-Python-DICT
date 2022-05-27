@@ -101,7 +101,9 @@ Python Training sponsored by DICT-Philippines.
   Visualize Data with Python
   </summary>
   <p align="center">
-<!--   <img src="https://github.com/Donard20/Analyze-Data-with-Python-DICT/blob/main/IMG/summary/1.png" width=50% height=50%> -->
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/summary/1.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/summary/2.png" width=50% height=50%>           <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/summary/3.png" width=50% height=50%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/summary/4.png" width=50% height=50%>
 
   </details>
 
