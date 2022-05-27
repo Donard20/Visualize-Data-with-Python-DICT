@@ -81,6 +81,10 @@ Working with Subplots
 - [x] Working with Subplots
    - [x] The subplot() method
    - [x] The subplots() method
+- [x] Seaborn
+   - [x] barplot() method
+   - [x] lineplot() method
+   - [x] set() method 
 
   
 
