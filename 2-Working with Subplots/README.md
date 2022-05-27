@@ -49,28 +49,28 @@ Working with Subplots
  </details>
  
  
-<!--  <details>
+ <details>
 <summary>
- Plotting Data using Matplotlib
+ Data Visualization using Seaborn
 </summary>
   <p align="center">
-  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_2.png" width=40% height=40%>
+  <img src="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/IMG/inst_4.png" width=40% height=40%>
   
    ## 🚀 Solution
 
   <details>
   <summary>
- supermarket_sales_EDA_exercises matplotlib 3_8 Continuation
+ Module 4 Coding Exercise Continuation Seaborn
   </summary>
    <p align="center">
-   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/1-Introduction%20to%20Data%20Visualization/supermarket_sales_EDA_exercises%20matplotlib%203_8.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
+   <a href="https://github.com/Donard20/Visualize-Data-with-Python-DICT/blob/main/2-Working%20with%20Subplots/Module%204%20Coding%20Exercise%20Continuation%20Seaborn.ipynb" target="_blank"><img src="https://img.shields.io/badge/View-My%20Solution-blue?style=for-the-badge&logo=github"></a>
   
 
    </detals>
   
  </details>
  
- </details> -->
+ </details>
 
 
   ---
